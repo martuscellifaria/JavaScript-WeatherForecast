@@ -1,5 +1,5 @@
 const api = {
-    key: "INSERT YOUR OWN KEY",
+    key: "INSERT YOUR OWN KEY - JUST VISIT https://openweathermap.org/api AND MAKE A FREE ACCOUNT! THE KEY WILL TAKE UP TO 15 MINUTES TO BE ACTIVATED",
     base: "https://api.openweathermap.org/data/2.5/"
 };
 const searchbox = document.querySelector('.search-box');
